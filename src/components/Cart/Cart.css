@@ -1,0 +1,24 @@
+.cart{
+    
+    position: sticky;
+    padding: 30px 20px;
+}
+
+.cart h5{
+    font-size: 18px;
+    text-align: center;
+}
+
+.cart h6{
+    font-size: 14px;
+}
+
+.cart-btn{
+    width: 100%;
+    color: #fff;
+    background-color: #FF9900;
+}
+.cart-btn.red{
+    background-color: #FF3030;
+    margin-top: 15px;
+}
